@@ -46,3 +46,6 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+![image](https://user-images.githubusercontent.com/109697571/200133148-c3e9fb42-27bf-48af-9feb-2fdc2bb50292.png) for EB running ok
+http://udagram-azzam-dev-dev.us-east-1.elasticbeanstalk.com/  eb url
