@@ -19,4 +19,6 @@ Here is the repository structure:
     └── project
 ```
 
+![image](https://user-images.githubusercontent.com/109697571/200133148-c3e9fb42-27bf-48af-9feb-2fdc2bb50292.png) for EB running ok
+http://udagram-azzam-dev-dev.us-east-1.elasticbeanstalk.com/  eb url
 
